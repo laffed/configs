@@ -19,6 +19,8 @@
 <function1>
 [e]>[9]
 [r]>[0]
+[u]>[hyph]
+[i]>[bsls]
 [d]>[obrk]
 [f]>[cbrk]
 [g]>[grav]
